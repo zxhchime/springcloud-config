@@ -1,2 +1,0 @@
-# springcloud-chime
-test
